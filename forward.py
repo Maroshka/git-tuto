@@ -24,3 +24,7 @@ def forward(x, w, v):
 
 	return h, z#just chilling
 #just chilling
+#kuku was here
+#kuku was here
+#kuku was here, again
+#kuku is never tired of your sweet sweet company
