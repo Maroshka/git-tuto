@@ -24,3 +24,4 @@ def forward(x, w, v):
 
 	return h, z#just chilling
 #just chilling
+#whtever
